@@ -15,6 +15,7 @@ It includes:
 
 - Python
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
@@ -26,7 +27,7 @@ It includes:
 1. Load and visualize the salary dataset
 2. Train a **Linear Regression** model using `Age` and `Experience` as input features
 3. Evaluate the model using **MSE** and **R² Score**
-4. Take user input (**age** and **experience**) and return a **predicted salary**
+4. Take user input (**Age** and **Experience**) and return a **Predicted Salary**
 
 ---
 
